@@ -7,3 +7,4 @@ Module 1 repository for Exam bootcamp "DesafioLatam".
 ```bash
 $ git clone git@github.com:camilomolina/desafio-latam_module-1_06-exam.git
 ```
+## Nueva Sección: Trabajo Colaborativo Github
